@@ -1,6 +1,6 @@
 {
   "name": "ToDoList",
-  "short_name": "ToDo V1.1",
+  "short_name": "ToDo V1.2",
   "start_url": "/index.html",
   "display": "standalone",
   "theme_color": "#ffe4d4",
