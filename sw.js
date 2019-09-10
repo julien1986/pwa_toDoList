@@ -1,5 +1,5 @@
 // CECI EST MON SERVICE WORKER //
-const version = 1.0;
+const version = 1.1;
 const staticAssets = ["/", "/index.html", "/css/style.css", "/js/main.js"];
 
 /* INSTALLATION */
